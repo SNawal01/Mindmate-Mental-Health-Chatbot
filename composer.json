@@ -1,5 +1,0 @@
-{
-    "require": {
-        "google/cloud-dialogflow": "^0.25.0"
-    }
-}
